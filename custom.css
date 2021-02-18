@@ -1,0 +1,27 @@
+body{
+    background-color: red;
+    
+}
+#donator{
+    color: blue;
+    background-color: black;
+    border-radius: 5px;
+    border-color: black;
+    padding-left: 10px;
+    padding-right: 100px;
+}
+.donation{
+    background-color: red;
+    border-radius: 10px;
+    border-color: red;
+    padding-bottom: 15px;
+    
+    
+}
+#amount{
+    color:white;
+    
+}
+#remarks{
+    color:white;
+}
