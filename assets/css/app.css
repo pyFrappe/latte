@@ -1,0 +1,46 @@
+.nodesinfo li{
+    font-weight: lighter;
+    font-size: small;
+}
+
+body{
+    background-color: #23272a;
+}
+
+.consent{
+    margin-top :10px
+}
+.card-body .card .card-header .card-title{
+    font-size: medium;
+    font-weight: bold;
+}
+.sidebar-wrapper .chatbox{
+    padding-top: 20px;
+    background-color:#2c2f33;
+    height: 70vh;
+}
+.requestsSection{
+    background-color: ;
+}
+
+.attackRequestsBar{
+    height: 345px !important;
+    max-height: 345px !important;
+}
+
+.col-md-8 .fixedBabu{
+    overflow-y: scroll;
+    height: 460px !important;
+    max-height: 460px !important;
+}
+.col-md-4 .card{
+    overflow-y: scroll;
+    max-height: 460px;
+}
+.subCard{
+    box-shadow: 5px 10px #23272a;
+}
+
+.breaker{
+    margin-bottom: 10px;
+}
